@@ -12,8 +12,8 @@ exports.azureConf = {
 };
 
 exports.googleConf = {
-  clientID: 'ENTER_YOUR_CLIENT_ID',
-  clientSecret: 'ENTER_YOUR_SECRET',
-  callbackURL: 'https://localhost:3000/connect/google/callback',
+  clientID: '1008575147866-dlh4nf23clgiqvapji1ucssntat508kn.apps.googleusercontent.com',
+  clientSecret: 'IRbjIwxeQ9zo8jDoNaM9E7XD',
+  callbackURL: 'https://chatmyself:3000/connect/google/callback',
   passReqToCallback: true
 };
